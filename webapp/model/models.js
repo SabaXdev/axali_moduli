@@ -28,7 +28,7 @@ function (JSONModel, Device) {
                         Name: "The Hobbit",
                         Author: "J.R.R. Tolkien",
                         Genre: "Fantasy",
-                        ReleaseDate: new Date(1937, 8, 21),
+                        ReleaseDate: new Date(1938, 8, 21),
                         AvailableQuantity: 8
                     },
                     {
